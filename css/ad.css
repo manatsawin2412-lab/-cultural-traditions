@@ -23,7 +23,7 @@ body {
 .contact-header {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/จิตรกรรม23.jpg') center/cover;
+              url('../picture/ar23.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -35,7 +35,7 @@ body {
 .contact-h {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/จิตรกรรม3.jpg') center/cover;
+              url('../picture/ar3.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -47,7 +47,7 @@ body {
 .contact-h2 {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/จิตรกรรม41.jpg') center/cover;
+              url('../picture/ar41.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -59,7 +59,7 @@ body {
 .contact-h3 {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/จิตรกรรม41.jpg') center/cover;
+              url('../picture/ar41.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -71,7 +71,7 @@ body {
 .contact-h4 {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/โขน4.jpg') center/cover;
+              url('../picture/khon4.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -83,7 +83,7 @@ body {
 .contact-h5 {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/หนังตะลุง4.jpg') center/cover;
+              url('../picture/tarung4.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -96,7 +96,7 @@ body {
 .contact-h6 {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/ผีตาโขน1.jpg') center/cover;
+              url('../picture/eyekhon1.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -108,7 +108,7 @@ body {
 .contact-h7 {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/ประเพณีไหลเรือไฟ2.jpg') center/cover;
+              url('../picture/boat2.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
@@ -120,7 +120,7 @@ body {
 .contact-h8 {
   /* พื้นหลังสีม่วงไล่เฉดซ้อนทับรูปภาพ */
   background: linear-gradient(rgba(231, 241, 182, 0.8), rgba(123, 99, 230, 0.8)), 
-              url('../picture/สักยันต์4.jpg') center/cover;
+              url('../picture/Yan4.jpg') center/cover;
   height: 200px;
   display: flex;
   justify-content: center;
